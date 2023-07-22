@@ -1,6 +1,6 @@
 {
   "name": "utilio-js",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "A JavaScript utility library for faster development",
   "main": "index.js",
   "scripts": {
@@ -19,8 +19,8 @@
   "bugs": {
     "url": "https://github.com/MHDYousuf/utilio-js/issues"
   },
-  "engines" : { 
-    "node" : ">=8.0.0" 
+  "engines": {
+    "node": ">=8.0.0"
   },
   "homepage": "https://github.com/MHDYousuf/utilio-js#readme"
 }
