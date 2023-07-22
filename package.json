@@ -1,0 +1,23 @@
+{
+  "name": "utilio-js",
+  "version": "1.0.0",
+  "description": "A JavaScript utility library for faster development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHDYousuf/utilio-js.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Mohammed Yousuf P U",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MHDYousuf/utilio-js/issues"
+  },
+  "homepage": "https://github.com/MHDYousuf/utilio-js#readme"
+}
