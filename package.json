@@ -3,10 +3,10 @@
   "version": "1.0.1-0",
   "description": "A JavaScript utility library for faster development",
   "main": "index.js",
-  "scripts": {
-    "test": "node index.test.js"
-  },
   "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MHDYousuf/utilio-js.git"
@@ -25,5 +25,8 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/MHDYousuf/utilio-js#readme"
+  "homepage": "https://github.com/MHDYousuf/utilio-js#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
 }

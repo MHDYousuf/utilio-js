@@ -1,8 +1,3 @@
-//entry file
+import total from './totalArray'
 
-function printHello(){
-  console.log('Hello World')
-}
-
-
-module.exports = printHello
+export {total}
