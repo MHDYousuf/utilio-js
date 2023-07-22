@@ -1,3 +1,3 @@
-import total from './totalArray'
+import totalArray from './totalArray.js'
 
-export {total}
+export {totalArray}
