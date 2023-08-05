@@ -1,6 +1,6 @@
 {
   "name": "utilio-js",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "A JavaScript utility library for faster development",
   "main": "index.js",
   "type": "module",
@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/MHDYousuf/utilio-js#readme",
   "devDependencies": {
+    "chai": "^4.3.7",
     "mocha": "^10.2.0"
   }
 }
